@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{812d7393-872c-4829-8732-7b40dcf346f8}">
+		<property name="name">
+			<value>Neptune Chorus</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c9c2823d-2183-44f7-98c6-e3557a24edcd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d992d62a-2efd-47e2-ac60-a3195b4b6c50}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d992d62a-2efd-47e2-ac60-a3195b4b6c50}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

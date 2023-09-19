@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{13e69d63-c6bc-47e4-84b8-58dcd1f0aefc}">
+		<property name="name">
+			<value>MoonSpawns</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c9c2823d-2183-44f7-98c6-e3557a24edcd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9c26a588-444c-4168-af2f-92fdfab00b47}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9c26a588-444c-4168-af2f-92fdfab00b47}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>11</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

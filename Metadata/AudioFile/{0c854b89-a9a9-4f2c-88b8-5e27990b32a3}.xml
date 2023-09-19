@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0c854b89-a9a9-4f2c-88b8-5e27990b32a3}">
+		<property name="assetPath">
+			<value>Greek 7 Echo Hall.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.2658503401360544</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b595985-d2b2-4259-bc51-a4290357df7f}</destination>
+		</relationship>
+	</object>
+</objects>

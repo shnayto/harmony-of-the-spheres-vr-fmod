@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b35bfbf9-2411-40f3-98a7-6de901714616}">
+		<property name="name">
+			<value>Jupiter Volume</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c9c2823d-2183-44f7-98c6-e3557a24edcd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1cd0ed9e-48be-4b41-bd47-0847a52508fb}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1cd0ed9e-48be-4b41-bd47-0847a52508fb}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0.5</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

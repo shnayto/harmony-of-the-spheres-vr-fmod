@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{49b06b33-daee-4fe3-8297-70a60fd60356}">
+		<property name="name">
+			<value>Jupiter Chorus</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c9c2823d-2183-44f7-98c6-e3557a24edcd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{30f08632-fb64-4889-b64b-4c26c9577951}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{30f08632-fb64-4889-b64b-4c26c9577951}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{906afa1f-d42d-4758-a622-4b8c07088117}">
+		<property name="name">
+			<value>Saturn Volume</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c9c2823d-2183-44f7-98c6-e3557a24edcd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{bd7d87a0-0371-494d-886b-8cc60a475c3b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{bd7d87a0-0371-494d-886b-8cc60a475c3b}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0.5</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

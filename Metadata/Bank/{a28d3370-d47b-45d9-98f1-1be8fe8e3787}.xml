@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Bank" id="{a28d3370-d47b-45d9-98f1-1be8fe8e3787}">
+		<property name="name">
+			<value>Shimmer</value>
+		</property>
+		<relationship name="folder">
+			<destination>{65406b0b-70d1-4b73-b8be-b1e67a2d7d49}</destination>
+		</relationship>
+	</object>
+</objects>

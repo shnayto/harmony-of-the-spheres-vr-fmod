@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{8d7418ca-b5a4-4aee-95f9-ba93e405af29}">
+		<property name="name">
+			<value>Earth Volume</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c9c2823d-2183-44f7-98c6-e3557a24edcd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f9860596-98cc-44b9-81a6-76f69ea87084}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f9860596-98cc-44b9-81a6-76f69ea87084}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0.5</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

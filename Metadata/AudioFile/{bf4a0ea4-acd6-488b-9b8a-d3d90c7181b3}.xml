@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{bf4a0ea4-acd6-488b-9b8a-d3d90c7181b3}">
+		<property name="assetPath">
+			<value>Bottle Hall.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.63925170068027215</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b595985-d2b2-4259-bc51-a4290357df7f}</destination>
+		</relationship>
+	</object>
+</objects>

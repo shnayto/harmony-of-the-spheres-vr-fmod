@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{31cd4fe0-27d8-45fb-a6d3-ba33dcaf4789}">
+		<property name="assetPath">
+			<value>677860__el_boss__ui-button-click-snap.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.30608333333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b595985-d2b2-4259-bc51-a4290357df7f}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{2b524965-72a2-4d7d-9113-188812f11735}">
+		<property name="name">
+			<value>Saturn Solar View</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c9c2823d-2183-44f7-98c6-e3557a24edcd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{b800cbe5-7bf9-4d0b-89db-cc68089d1a28}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{b800cbe5-7bf9-4d0b-89db-cc68089d1a28}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{89ec9f01-e6f6-4f3b-90fb-5e2b02b9cd35}">
+		<property name="name">
+			<value>Saturn Chorus</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c9c2823d-2183-44f7-98c6-e3557a24edcd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{5f0e951f-f38a-4634-beba-68bce3fdbb99}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{5f0e951f-f38a-4634-beba-68bce3fdbb99}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

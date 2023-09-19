@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{e821fc3c-5e7e-4ac5-96d9-a491f193fb49}">
+		<property name="name">
+			<value>Jupiter Hover</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c9c2823d-2183-44f7-98c6-e3557a24edcd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d54a3d00-dedc-4ce7-bf64-303359d15137}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d54a3d00-dedc-4ce7-bf64-303359d15137}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

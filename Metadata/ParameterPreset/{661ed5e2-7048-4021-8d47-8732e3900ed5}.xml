@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{661ed5e2-7048-4021-8d47-8732e3900ed5}">
+		<property name="name">
+			<value>Venus Chorus</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c9c2823d-2183-44f7-98c6-e3557a24edcd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{5dea84d4-caa5-42cd-8151-a7c66ede3449}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{5dea84d4-caa5-42cd-8151-a7c66ede3449}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

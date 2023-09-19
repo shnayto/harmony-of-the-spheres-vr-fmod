@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{1ae30ccd-f977-44a0-81c1-61b0e066d724}">
+		<property name="name">
+			<value>Mars Hover</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c9c2823d-2183-44f7-98c6-e3557a24edcd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{dab9d369-8585-47ac-8cb5-d8874ac641f8}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{dab9d369-8585-47ac-8cb5-d8874ac641f8}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

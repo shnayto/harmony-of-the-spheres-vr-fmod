@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{0152b825-6459-4fdc-9f3a-a91cb75b128d}">
+		<property name="name">
+			<value>Earth Hover</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c9c2823d-2183-44f7-98c6-e3557a24edcd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c2cb6bc1-6764-4ff2-b7ae-1abde9478422}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c2cb6bc1-6764-4ff2-b7ae-1abde9478422}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
